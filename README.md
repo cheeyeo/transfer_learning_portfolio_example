@@ -1,3 +1,6 @@
+[Flowers 17 dataset]:
+http://www.robots.ox.ac.uk/~vgg/data/flowers/17/
+
 ## Transfer Learning
 
 Example project of using VGG-16 as a pretrained network and applying transfer learning via fine tuning for the [Flowers 17 dataset].
@@ -193,4 +196,4 @@ Further extension to the deployment process include:
 
 ### References
 
-[Flowers 17 dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/17/)
+[Flowers 17 dataset]
