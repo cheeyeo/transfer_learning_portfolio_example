@@ -1,0 +1,4 @@
+datasets
+flowers17
+__pycache__
+.pytest_cache
